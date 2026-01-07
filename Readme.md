@@ -115,7 +115,7 @@ CAE-Learning-Projects/
 
 ## 📝 许可证
 
-本项目采用MIT许可证，详见[LICENSE]文件。
+本项目采用MIT许可证，详见[LICENSE](https://github.com/decify3/CAE-Projects/blob/main/License)文件。
 
 ## 📧 联系
 
